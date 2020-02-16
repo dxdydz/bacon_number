@@ -26,7 +26,7 @@ To avoid re-building database, you can instead point a redis-server instance to 
 
     redis-server --dir /path/to/data/dump.rdb
 
-## Running & Interfacting with the Flask Server
+## Running & Interfacing with the Flask Server
 
 With the Redis database running, start the Flask server with:
 
